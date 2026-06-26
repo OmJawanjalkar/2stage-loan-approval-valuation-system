@@ -1,4 +1,4 @@
-# Loan Approval Project - Two Stage ML Application
+# LOAN APPROVAL PREDICTION - Two Stage ML Application
 
 ## OverView :
 Two stage model :
